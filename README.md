@@ -1,4 +1,4 @@
-# Track Covid <img src="./images/Capture.JPG" alt="drawing" width="50" height="50"/>
+# Track C<img src="./images/Capture.JPG" alt="COVID" width="50" height="30"/>VID
 ![build](https://travis-ci.org/angular/material.svg) ![npm](https://img.shields.io/npm/v/npm.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > A COVID tracking website helping users to get the current number of COVID cases and past results.
 
