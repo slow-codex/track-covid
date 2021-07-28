@@ -1,6 +1,6 @@
+![](./images/Capture.JPG)
 # Track Covid 
 ![build](https://travis-ci.org/angular/material.svg) ![npm](https://img.shields.io/npm/v/npm.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![](./images/Capture.JPG)
 > A COVID tracking website helping users to get the current number of COVID cases and past results.
 
 ## Table of Contents
