@@ -1,5 +1,5 @@
 # Track Covid
-![npm](https://img.shields.io/npm/v/npm.svg)
+![npm](https://img.shields.io/npm/v/npm.svg) ![build](https://travis-ci.org/angular/material.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > Outline a brief description of your project.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -10,10 +10,8 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+* [Reference](#Reference)
+* [License](#License)
 <!-- * [License](#license) -->
 
 
