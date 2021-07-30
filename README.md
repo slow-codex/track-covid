@@ -51,4 +51,3 @@ Visit `localhost:300` on your preffered browser and watch the website and edit i
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
